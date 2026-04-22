@@ -1,2 +1,2 @@
 # hello-world
-Hello my name is Rafael I like making music and playing videos games :3
+Hello my name is Rafael I like to make music and playing videos games :3
